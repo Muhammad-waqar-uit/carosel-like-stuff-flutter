@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # carosel-like-stuff-flutter
-<img src="https://user-images.githubusercontent.com/57596726/193657991-e7659448-bb1e-42a2-9f18-96817cf8f7c8.png" width=250 height=500>
+<img src="https://user-images.githubusercontent.com/57596726/193657991-e7659448-bb1e-42a2-9f18-96817cf8f7c8.png" width=350 height=500>
